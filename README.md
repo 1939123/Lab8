@@ -1,6 +1,5 @@
 
-## Lab 8: Proxy Design Pattern
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/1939123/Lab8/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/1939123/Lab8/tree/main)
+## Lab 8: Proxy Design Pattern [![CircleCI](https://dl.circleci.com/status-badge/img/gh/1939123/Lab8/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/1939123/Lab8/tree/main)
 An example of using the Proxy Design Pattern in Java.
 
 ### Requirements
